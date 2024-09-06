@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "@nomicfoundation/hardhat-network-helpers": "^1.0.10",
-    "@openzeppelin/contracts-upgradeable": "^5.0.2"
+    "@openzeppelin/contracts-upgradeable": "^5.0.2",
+    "solmate": "^6.2.0"
   }
 }
